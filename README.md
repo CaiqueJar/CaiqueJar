@@ -11,8 +11,7 @@
 </div>
   
 - 👋 Hi there, my name is Caique Dias, and i'm studying to be a software developer
-- 🔭 I’m currently studying analysis and systems development at "Universidade Nove de Julho (UNINOVE)"
-- 🔭 I’m also studying systems development at "ETEC de Guaianazes" 
+- 🔭 I’m studying systems development at "ETEC de Guaianazes" 
 - 🌱 
 - 📫 How to reach me: caiquedm11@gmail.com
   
