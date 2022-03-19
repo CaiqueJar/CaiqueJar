@@ -11,7 +11,10 @@
   <img margin="auto 20px auto 20px" align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   
   <img margin="auto 20px auto 20px" align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-</div>
+  <img margin="auto 20px auto 20px" align="center" alt="NodeJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+
+ </div>
+
   
 - 👋 Sup, I'm Caique Dias, I'm a game developer.
 - 🔭 I’m studying systems development at "ETEC de Guaianazes" 
