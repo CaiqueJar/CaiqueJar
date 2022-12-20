@@ -14,7 +14,7 @@
 
   
 - 👋 Sup, I'm Caique Dias, I'm a game developer.
-- 🔭 I’m studying systems development at "ETEC de Guaianazes" 
+- 🔭 I have studied systems development at "ETEC de Guaianazes" 
 - 📫 How to reach me: caiquedm11@gmail.com
   
   <a href="caiquedm11@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23DD0031?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
