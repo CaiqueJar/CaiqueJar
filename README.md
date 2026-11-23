@@ -1,21 +1,27 @@
-<div align="center">
-  <a href="https://github.com/CaiqueJar">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CaiqueJar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaiqueJar&layout=compact&langs_count=7&theme=tokyonight">
-</div>
-  
-  <div style="display: inline_block" align="center"><br>
-  <img margin="auto 20px auto 20px" align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img margin="auto 20px auto 20px" align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img margin="auto 20px auto 20px" align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img margin="auto 20px auto 20px" align="center" alt="Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
-  <img margin="auto 20px auto 20px" align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-          
- </div>
+## Hi, I'm Caique 👋
 
-  
-- 👋 Tudo bem?, sou eu Caique Dias, desenvolvedor web e desenvolvedor de jogos nos tempos livres.
-- 📘 Estudante de Sistemas da informação, na Impacta.
-- 🔭 Estudei Desenvolvimento de sistemas na ETEC de Guaianases. 
-- 📫 Entrar em contato: <a href="mailto:caiquedm11@gmail.com">caiquedm11@gmail.com</a>
-  
+Back-end developer from São Paulo, Brazil, with almost 4 years building web applications with **PHP, Laravel and MySQL**. Open to remote roles.
+
+- Currently evolving a legacy ERP (PHP + MySQL) used by 10+ departments of a textile company: new modules, reports, automations and query optimization
+- Built e-commerce and booking systems with **Mercado Pago** payments, webhooks and **Bling ERP** sync
+- Integrated **OpenAI** into products and work daily with AI-assisted development (Claude Code), reviewing and testing every change
+- In my free time I build small games, coding by hand just for fun
+
+### Tech
+
+<p>
+  <img alt="PHP" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">&nbsp;
+  <img alt="Laravel" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg">&nbsp;
+  <img alt="MySQL" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">&nbsp;
+  <img alt="Redis" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg">&nbsp;
+  <img alt="Docker" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">&nbsp;
+  <img alt="JavaScript" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">&nbsp;
+  <img alt="Tailwind CSS" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg">&nbsp;
+  <img alt="Git" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+</p>
+
+Also: Livewire, Filament, REST APIs, GitHub Actions
+
+### 📫 Contact
+
+[LinkedIn](https://www.linkedin.com/in/caique-dias-9668663aa) · [caiquedm11@gmail.com](mailto:caiquedm11@gmail.com) · [Portfolio](https://caiquejar.github.io)
