@@ -22,6 +22,6 @@ Back-end developer from São Paulo, Brazil, with almost 4 years building web app
 
 Also: Livewire, Filament, REST APIs, GitHub Actions
 
-### 📫 Contact
+### Contact
 
 [LinkedIn](https://www.linkedin.com/in/caique-dias-9668663aa) · [caiquedm11@gmail.com](mailto:caiquedm11@gmail.com) · [Portfolio](https://caiquejar.github.io)
